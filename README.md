@@ -1,4 +1,4 @@
 # ITI FLUTTER 
 
 # gif
-![UI](UI.gif)
+![UI](GIFS/UI.gif)
