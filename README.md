@@ -21,5 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 
 # ITI FLUTTER 
 
-# gif
+# Gif
 ![UI](GIFS/UI1.gif)
